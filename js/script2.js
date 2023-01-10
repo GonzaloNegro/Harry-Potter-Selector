@@ -4,7 +4,10 @@ const search = document.querySelector('#search');
 search.addEventListener("click", ()=>{
     casa.style.visibility = "visible";
     search.style.visibility = "hidden";
-    casa.innerHTML = `Tu casa será: <br><h1>${sortear()}</h1>`;
+    casa.innerHTML = "Mmmm..."
+    setTimeout(() => {
+        casa.innerHTML = `Tu casa será: <br><h1>${sortear()}</h1>`;
+    }, 2000);
 })
 
 function sortear(){

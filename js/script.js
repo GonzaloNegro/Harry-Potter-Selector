@@ -40,8 +40,8 @@ function createHTML(array){
 
 /* --------------------- */
 
-const casa = document.querySelector('#casa');
-const search = document.querySelector('#search');
+/* let casa = document.querySelector('#casa');
+let search = document.querySelector('#search');
 
 search.addEventListener("click", ()=>{
     casa.style.visibility = "visible";
@@ -63,5 +63,4 @@ function sortear(){
     }
 
     return aleatorio;
-
-}
+} */

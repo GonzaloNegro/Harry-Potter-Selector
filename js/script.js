@@ -5,7 +5,7 @@ const info = document.querySelector('.prin-info');
 
 /* FUNCION ASINCRONA PARA TRAER LOS DATOS DEL JSON */
 async function getData(){
-    const response = await fetch('../data.json');
+    const response = await fetch('./data.json');
     const data = await response.json();
     createHTML(data);
 }
@@ -40,7 +40,7 @@ function createHTML(array){
 
 /* --------------------- */
 
-/* let casa = document.querySelector('#casa');
+let casa = document.querySelector('#casa');
 let search = document.querySelector('#search');
 
 search.addEventListener("click", ()=>{
@@ -63,4 +63,4 @@ function sortear(){
     }
 
     return aleatorio;
-} */
+}

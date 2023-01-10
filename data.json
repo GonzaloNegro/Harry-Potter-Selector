@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Harry Potter",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/HarryPotter.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ron Weasley",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/RonWeasley.jpg"
+        },
+    {
+        "id": 3, 
+        "nombre": "Hermione Granger",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/HermioneGranger.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Neville Longbottom",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/NevilleLongbottom.jpg"
+        },
+    {
+        "id": 5,
+        "nombre": "Ginny Weasley",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/GinnyWeasley.jpg"
+        },
+    {
+        "id": 6,
+        "nombre": "Fred Weasley",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/FredWeasley.jpg"
+        },
+    {
+        "id": 7,
+        "nombre": "George Weasley",
+        "casa": "Gryffindor", 
+        "logc": "../images/logG.png",
+        "logo": "../images/Gryffindor.png",
+        "imagen": "./images/GeorgeWeasley.jpg"
+        },
+    {
+        "id": 8,
+        "nombre": "Luna Lovegood",
+        "casa": "Ravenclaw", 
+        "logc": "../images/logR.png",
+        "logo": "../images/Ravenclaw.png",
+        "imagen": "./images/LunaLovegood.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Cho Chang",
+        "casa": "Ravenclaw", 
+        "logc": "../images/logR.png",
+        "logo": "../images/Ravenclaw.png",
+        "imagen": "./images/ChoChang.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Myrtle Warren ",
+        "casa": "Ravenclaw", 
+        "logc": "../images/logR.png",
+        "logo": "../images/Ravenclaw.png",
+        "imagen": "./images/MyrtleWarren.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Cedric Diggory",
+        "casa": "Hufflepuff", 
+        "logc": "../images/logH.png",
+        "logo": "../images/Hufflepuff.png",
+        "imagen": "./images/CedricDiggory.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Susan Bones",
+        "casa": "Hufflepuff", 
+        "logc": "../images/logH.png",
+        "logo": "../images/Hufflepuff.png",
+        "imagen": "./images/SusanBones.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Draco Malfoy",
+        "casa": "Slytherin", 
+        "logc": "../images/logS.png",
+        "logo": "../images/Slytherin.png",
+        "imagen": "./images/DracoMalfoy.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Gregory Goyle",
+        "casa": "Slytherin", 
+        "logc": "../images/logS.png",
+        "logo": "../images/Slytherin.png",
+        "imagen": "./images/GregoryGoyle.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Vincent Crabbe",
+        "casa": "Slytherin", 
+        "logc": "../images/logS.png",
+        "logo": "../images/Slytherin.png",
+        "imagen": "./images/VincentCrabbe.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Marcus Flint",
+        "casa": "Slytherin", 
+        "logc": "../images/logS.png",
+        "logo": "../images/Slytherin.png",
+        "imagen": "./images/MarcusFlint.jpg"
+    }
+]
